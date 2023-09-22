@@ -14,7 +14,7 @@ if (!$conn) {
 }
 
 // Get user input from the form
-$username = $_POST['user_name'];
+$username = $_POST['username'];
 $password = $_POST['password'];
 $name = $_POST['name'];
 
